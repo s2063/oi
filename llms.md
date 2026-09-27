@@ -1,0 +1,57 @@
+# llms
+
+* [OSINT Complete Guide for Beginners](osint-complete-guide-for-beginners.md): Access a meticulously curated OSINT cheat sheet featuring a categorized compilation of top resources for Open Source Intelligence (OSINT). Elevate your investigative skills with powerful tools.
+* [Search Engines and Google Dorking](search-engines-and-google-dorking.md)
+* [Email/ Usernames /Passwords](email-usernames-passwords.md)
+* [Downloading Leaked Databases](downloading-leaked-databases.md)
+* [Social Media](./)
+* [Instagram](instagram.md)
+* [Facebook](facebook.md)
+* [Tiktok](tiktok.md)
+* [Twitter](twitter.md)
+* [Reddit](reddit.md)
+* [Whatsapp](whatsapp.md): We can get IP address of a whatsapp caller by analysing the traffic in wireshark
+* [Github](github.md)
+* [Image OSINT](image-osint.md): Reverse Image OSINT, Exiftool, image check with AI, Basic Image forensics tools
+* [Videos OSINT](videos-osint.md)
+* [Maps OSINT](maps-osint.md)
+* [Phone Numbers](phone-numbers.md): Hunt the phone numbers and find information about the owner of the phone number and related social media accounts
+* [People Search](people-search.md): A lot of these are US Based only
+* [Find Addresses](find-addresses.md)
+* [Vehicles and Cards](vehicles-and-cards.md)
+* [Government Records](government-records.md)
+* [Website OSINT](website-osint.md)
+* [Website Monitoring](website-monitoring.md)
+* [Finding Hidden Directories](finding-hidden-directories.md)
+* [Internet Search Engines](internet-search-engines.md)
+* [Subdomains Enumeration](subdomains-enumeration.md)
+* [DNS Records](dns-records.md)
+* [RDAP](rdap.md)
+* [Bypass Cloudflare](bypass-cloudflare.md)
+* [Web Archive](web-archive.md)
+* [Reverse Google Analytics](reverse-google-analytics.md): Find websites owned by a person
+* [Analyse Documents Metadata](analyse-documents-metadata.md)
+* [Backlinks](backlinks.md)
+* [Recon Frameworks](recon-frameworks.md)
+* [Business OSINT](business-osint.md)
+* [Metadata](metadata.md)
+* [Threat Intelligence](threat-intelligence.md)
+* [Books Search](books-search.md): A curated list of free book and document search engines for OSINT research — including Anna's Archive, Library Genesis, Z-Library, and more.
+* [Sock Puppet](sock-puppet.md)
+* [Darkweb](darkweb.md)
+* [Cracking hashes](cracking-hashes.md)
+* [Misc Tools](misc-tools.md)
+* [AI Tools](ai-tools.md)
+* [Maritime OSINT](maritime-osint.md)
+* [Surveillance Cams](surveillance-cams.md)
+* [Air OSINT](air-osint.md)
+* [Staying Anonymous](staying-anonymous.md)
+* [Paid Platforms(Multi Services)](paid-platforms-multi-services.md)
+* [Note Taking](note-taking.md)
+* [Case Studies](case-studies.md): Example of OSINT
+* [Tutorials](tutorials.md)
+* [Forums](forums.md)
+* [Privacy and Prevent Yourself](privacy-and-prevent-yourself.md)
+* [OSINT Courses](osint-courses.md)
+* [OSINT Frameworks/ Curated Lists](osint-frameworks-curated-lists.md)
+* [OSINT Books and Resources](osint-books-and-resources.md)
